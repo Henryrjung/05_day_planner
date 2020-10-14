@@ -27,7 +27,9 @@ THEN the saved events persist
 ## Description
 
 ## Credits
-
+1. https://stackoverflow.com/questions/8888491/how-do-you-display-javascript-datetime-in-12-hour-am-pm-format
+1. class repo
+1. w3 Schools
 ## Links
 
 ## Screenshot
